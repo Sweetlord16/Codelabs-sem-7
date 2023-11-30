@@ -1,66 +1,82 @@
 [
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.tiptime.app-main-46:/drawable/ic_launcher_background.xml"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.tiptime.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.tiptime.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/drawable-nodpi_third.jpg.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/drawable-nodpi/third.jpg"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.tiptime.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.tiptime.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.tiptime.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.tiptime.app-main-46:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.tiptime.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/drawable_percent.xml.flat",
-        "source": "com.example.tiptime.app-main-46:/drawable/percent.xml"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/drawable-nodpi_fourth.png.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/drawable-nodpi/fourth.png"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.tiptime.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.tiptime.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.tiptime.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.tiptime.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.tiptime.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/drawable_money.xml.flat",
-        "source": "com.example.tiptime.app-main-46:/drawable/money.xml"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/drawable-nodpi_first.png.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/drawable-nodpi/first.png"
     },
     {
-        "merged": "com.example.tiptime.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.tiptime.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.naumanbutt2002.artspaceapp-merged_res-41:/drawable-nodpi_second.jpg.flat",
+        "source": "com.naumanbutt2002.artspaceapp-main-43:/drawable-nodpi/second.jpg"
     }
 ]
